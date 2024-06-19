@@ -1,1 +1,1 @@
-print("Data Science G2 BWF 2024 Abdul Majeed")
+print("Data Science G1 BWF 2024 Abdul Majeed")
